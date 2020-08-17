@@ -7,7 +7,11 @@ Hey 👋🏻, I'm Thang
 
 ![Thangdev's github stats](https://github-readme-stats.vercel.app/api?username=thangdev&show_icons=true&hide_border=true&theme=dracula)
 
-**Languages and Tools:** 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thangdev)
+
+
+**Languages and Tools I use:** 
 <br>
 <br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -26,6 +30,9 @@ Hey 👋🏻, I'm Thang
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <br />
+
+
+
 
 
 
