@@ -1,4 +1,3 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=thangdev.thangdev)
 <h3 align='center'>
 Hey 👋🏻, I'm Thang
 </h3> 
