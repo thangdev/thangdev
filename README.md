@@ -1,7 +1,7 @@
 <h3 align='center'>
 Hey 👋🏻, I'm Thang
 </h3> 
-<p align='center'>I am a fullstack javascript developer</p>
+<p align='center'>I am a javascript/typescript developer</p>
 <br />
 
 <!-- ![Thangdev's github stats](https://github-readme-stats.vercel.app/api?username=thangdev&show_icons=true&hide_border=true&theme=dracula) -->
