@@ -26,7 +26,7 @@ Hey 👋🏻, I'm Thang
 
 <br>
 
-[picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <br />
 
 
