@@ -4,7 +4,8 @@ Hey 👋🏻, I'm Thang
 <p align='center'>I am a javascript/typescript developer</p>
 <br />
 
-<!-- ![Thangdev's github stats](https://github-readme-stats.vercel.app/api?username=thangdev&show_icons=true&hide_border=true&theme=dracula) -->
+![Thangdev's github stats](https://github-readme-stats.vercel.app/api?username=thangdev)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thangdev) -->
