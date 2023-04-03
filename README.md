@@ -1,4 +1,6 @@
 <h3 align='center'>
+<p align="center"><a href="https://ericclemmons.com"><img width="80%" src="https://rishavanand.github.io/static/images/greetings.gif" /></a></p>
+
 Hey 👋🏻, I'm Thang
 </h3> 
 <p align='center'>I am a javascript/typescript developer</p>
