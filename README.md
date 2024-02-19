@@ -3,7 +3,7 @@
 
 Hey 👋🏻, I'm Thang
 </h3> 
-<p align='center'>I am a javascript/typescript developer</p>
+<p align='center'>I work as a Backend and devops engineer</p>
 <br />
 
 ![Thangdev's github stats](https://github-readme-stats.vercel.app/api?username=thangdev&theme=dark&show_icons=true)
